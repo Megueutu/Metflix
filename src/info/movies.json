@@ -1,0 +1,628 @@
+{
+  "age-of-ultron": {
+    "title": "Vingadores: Era de Ultron",
+    "genre": ["Ação", "Aventura", "Ficção Científica"],
+    "year": 2015,
+    "duration": "2h 21m",
+    "classification": "PG-13",
+    "score": 7.3,
+    "streaming": ["Disney+"],
+    "director": "Joss Whedon",
+    "cast": ["Robert Downey Jr.", "Chris Evans"],
+    "synopsis": "Os Vingadores enfrentam a ameaça da inteligência artificial Ultron."
+  },
+
+  "ant-man": {
+    "title": "Homem-Formiga",
+    "genre": ["Ação", "Comédia", "Ficção Científica"],
+    "year": 2015,
+    "duration": "1h 57m",
+    "classification": "PG-13",
+    "score": 7.3,
+    "streaming": ["Disney+"],
+    "director": "Peyton Reed",
+    "cast": ["Paul Rudd"],
+    "synopsis": "Um ladrão ganha um traje que permite encolher e precisa salvar o mundo."
+  },
+
+  "the-avengers": {
+    "title": "Os Vingadores",
+    "genre": ["Ação", "Aventura"],
+    "year": 2012,
+    "duration": "2h 23m",
+    "classification": "PG-13",
+    "score": 8.0,
+    "streaming": ["Disney+"],
+    "director": "Joss Whedon",
+    "cast": ["Robert Downey Jr.", "Chris Evans"],
+    "synopsis": "Heróis se unem para salvar o mundo de uma invasão alienígena."
+  },
+
+  "batman-v-superman": {
+    "title": "Batman vs Superman",
+    "genre": ["Ação", "Aventura"],
+    "year": 2016,
+    "duration": "2h 31m",
+    "classification": "PG-13",
+    "score": 6.5,
+    "streaming": ["HBO Max"],
+    "director": "Zack Snyder",
+    "cast": ["Ben Affleck", "Henry Cavill"],
+    "synopsis": "Batman enfrenta Superman enquanto uma ameaça maior surge."
+  },
+
+  "deadpool": {
+    "title": "Deadpool",
+    "genre": ["Ação", "Comédia"],
+    "year": 2016,
+    "duration": "1h 48m",
+    "classification": "R",
+    "score": 8.0,
+    "streaming": ["Disney+"],
+    "director": "Tim Miller",
+    "cast": ["Ryan Reynolds"],
+    "synopsis": "Um anti-herói sarcástico busca vingança."
+  },
+
+  "deadpool-2": {
+    "title": "Deadpool 2",
+    "genre": ["Ação", "Comédia"],
+    "year": 2018,
+    "duration": "1h 59m",
+    "classification": "R",
+    "score": 7.7,
+    "streaming": ["Disney+"],
+    "director": "David Leitch",
+    "cast": ["Ryan Reynolds"],
+    "synopsis": "Deadpool forma um time para proteger um jovem mutante."
+  },
+
+  "deadpool-wolverine": {
+    "title": "Deadpool & Wolverine",
+    "genre": ["Ação", "Comédia"],
+    "year": 2024,
+    "duration": "2h 7m",
+    "classification": "R",
+    "score": 8.0,
+    "streaming": ["Disney+"],
+    "director": "Shawn Levy",
+    "cast": ["Ryan Reynolds", "Hugh Jackman"],
+    "synopsis": "Deadpool se une a Wolverine em uma missão multiversal."
+  },
+
+  "doctor-strange": {
+    "title": "Doutor Estranho",
+    "genre": ["Ação", "Fantasia"],
+    "year": 2016,
+    "duration": "1h 55m",
+    "classification": "PG-13",
+    "score": 7.5,
+    "streaming": ["Disney+"],
+    "director": "Scott Derrickson",
+    "cast": ["Benedict Cumberbatch"],
+    "synopsis": "Um médico descobre o mundo das artes místicas."
+  },
+
+  "endgame": {
+    "title": "Vingadores: Ultimato",
+    "genre": ["Ação", "Aventura"],
+    "year": 2019,
+    "duration": "3h 1m",
+    "classification": "PG-13",
+    "score": 8.4,
+    "streaming": ["Disney+"],
+    "director": "Irmãos Russo",
+    "cast": ["Robert Downey Jr.", "Chris Evans"],
+    "synopsis": "Os heróis tentam reverter o estalo de Thyears."
+  },
+
+  "far-from-home": {
+    "title": "Homem-Aranha: Longe de Casa",
+    "genre": ["Ação", "Aventura"],
+    "year": 2019,
+    "duration": "2h 9m",
+    "classification": "PG-13",
+    "score": 7.4,
+    "streaming": ["Disney+"],
+    "director": "Jon Watts",
+    "cast": ["Tom Holland"],
+    "synopsis": "Peter Parker enfrenta ameaças durante viagem à Europa."
+  },
+
+  "godzilla-minus-one": {
+    "title": "Godzilla Minus One",
+    "genre": ["Ação", "Ficção Científica"],
+    "year": 2023,
+    "duration": "2h 5m",
+    "classification": "PG-13",
+    "score": 8.3,
+    "streaming": ["Netflix"],
+    "director": "Takashi Yamazaki",
+    "cast": ["Ryunosuke Kamiki"],
+    "synopsis": "Godzilla surge no Japão pós-guerra."
+  },
+
+  "guardians-of-the-galaxy": {
+    "title": "Guardiões da Galáxia",
+    "genre": ["Ação", "Aventura"],
+    "year": 2014,
+    "duration": "2h 1m",
+    "classification": "PG-13",
+    "score": 8.0,
+    "streaming": ["Disney+"],
+    "director": "James Gunn",
+    "cast": ["Chris Pratt"],
+    "synopsis": "Heróis improváveis protegem a galáxia."
+  },
+
+  "guardians-of-the-galaxy-vol2": {
+    "title": "Guardiões da Galáxia Vol. 2",
+    "genre": ["Ação", "Aventura"],
+    "year": 2017,
+    "duration": "2h 16m",
+    "classification": "PG-13",
+    "score": 7.6,
+    "streaming": ["Disney+"],
+    "director": "James Gunn",
+    "cast": ["Chris Pratt"],
+    "synopsis": "O grupo descobre segredos do passado de Peter."
+  },
+
+  "john-wick": {
+    "title": "John Wick",
+    "genre": ["Ação"],
+    "year": 2014,
+    "duration": "1h 41m",
+    "classification": "R",
+    "score": 7.4,
+    "streaming": ["Prime Video"],
+    "director": "Chad Stahelski",
+    "cast": ["Keanu Reeves"],
+    "synopsis": "Um assassino busca vingança."
+  },
+
+  "joker": {
+    "title": "Coringa",
+    "genre": ["Drama", "Crime"],
+    "year": 2019,
+    "duration": "2h 2m",
+    "classification": "R",
+    "score": 8.4,
+    "streaming": ["HBO Max"],
+    "director": "Todd Phillips",
+    "cast": ["Joaquin Phoenix"],
+    "synopsis": "A origem sombria do vilão Coringa."
+  },
+
+  "logan": {
+    "title": "Logan",
+    "genre": ["Ação", "Drama"],
+    "year": 2017,
+    "duration": "2h 17m",
+    "classification": "R",
+    "score": 8.1,
+    "streaming": ["Disney+"],
+    "director": "James Mangold",
+    "cast": ["Hugh Jackman"],
+    "synopsis": "Um Wolverine envelhecido protege uma jovem mutante."
+  },
+
+  "man-of-steel": {
+    "title": "O Homem de Aço",
+    "genre": ["Ação", "Ficção Científica"],
+    "year": 2013,
+    "duration": "2h 23m",
+    "classification": "PG-13",
+    "score": 7.1,
+    "streaming": ["HBO Max"],
+    "director": "Zack Snyder",
+    "cast": ["Henry Cavill"],
+    "synopsis": "A origem do Superman."
+  },
+
+  "spider-verse": {
+    "title": "Homem-Aranha no Aranhaverso",
+    "genre": ["Animação", "Ação"],
+    "year": 2018,
+    "duration": "1h 57m",
+    "classification": "PG",
+    "score": 8.4,
+    "streaming": ["Netflix"],
+    "director": "Peter Ramsey",
+    "cast": ["Shameik Moore"],
+    "synopsis": "Miles Morales descobre o multiverso."
+  },
+
+  "thor-ragnarok": {
+    "title": "Thor: Ragnarok",
+    "genre": ["Ação", "Comédia"],
+    "year": 2017,
+    "duration": "2h 10m",
+    "classification": "PG-13",
+    "score": 7.9,
+    "streaming": ["Disney+"],
+    "director": "Taika Waititi",
+    "cast": ["Chris Hemsworth"],
+    "synopsis": "Thor enfrenta Hela e precisa salvar Asgard."
+  },
+
+  "venom": {
+    "title": "Venom",
+    "genre": ["Ação", "Ficção Científica"],
+    "year": 2018,
+    "duration": "1h 52m",
+    "classification": "PG-13",
+    "score": 6.6,
+    "streaming": ["Netflix"],
+    "director": "Ruben Fleischer",
+    "cast": ["Tom Hardy"],
+    "synopsis": "Um jornalista se funde com um simbionte alienígena."
+  },
+
+  "attack-on-titan": {
+    "title": "Attack on Titan",
+    "genre": ["Ação", "Drama"],
+    "year": 2013,
+    "episodes": 89,
+    "seasons": 4,
+    "classification": "PG-16",
+    "score": 9.0,
+    "streaming": ["Crunchyroll", "Netflix"],
+    "synopsis": "Humanidade luta contra titãs gigantes."
+  },
+
+  "breaking-bad": {
+    "title": "Breaking Bad",
+    "genre": ["Drama", "Crime"],
+    "year": 2008,
+    "episodes": 62,
+    "seasons": 5,
+    "classification": "TV-MA",
+    "score": 9.5,
+    "streaming": ["Netflix"],
+    "synopsis": "Professor vira produtor de drogas."
+  },
+
+  "chainsaw-man": {
+    "title": "Chainsaw Man",
+    "genre": ["Ação", "Fantasia"],
+    "year": 2022,
+    "episodes": 12,
+    "seasons": 1,
+    "classification": "PG-16",
+    "score": 8.5,
+    "streaming": ["Crunchyroll"],
+    "synopsis": "Um jovem se torna híbrido humyear-demônio."
+  },
+
+  "cyberpunk": {
+    "title": "Cyberpunk: Edgerunners",
+    "genre": ["Ficção Científica"],
+    "year": 2022,
+    "episodes": 10,
+    "seasons": 1,
+    "classification": "TV-MA",
+    "score": 8.7,
+    "streaming": ["Netflix"],
+    "synopsis": "Um jovem tenta sobreviver em Night City."
+  },
+
+  "death-note": {
+    "title": "Death Note",
+    "genre": ["Suspense"],
+    "year": 2006,
+    "episodes": 37,
+    "seasons": 1,
+    "classification": "PG-16",
+    "score": 9.0,
+    "streaming": ["Netflix"],
+    "synopsis": "Um caderno permite matar qualquer pessoa."
+  },
+
+  "demon-slayer": {
+    "title": "Demon Slayer",
+    "genre": ["Ação", "Fantasia"],
+    "year": 2019,
+    "episodes": 55,
+    "seasons": 3,
+    "classification": "PG-16",
+    "score": 8.7,
+    "streaming": ["Crunchyroll"],
+    "synopsis": "Garoto luta contra demônios."
+  },
+
+  "dragon-ball-super": {
+    "title": "Dragon Ball Super",
+    "genre": ["Ação"],
+    "year": 2015,
+    "episodes": 131,
+    "seasons": 1,
+    "classification": "PG",
+    "score": 8.4,
+    "streaming": ["Crunchyroll"],
+    "synopsis": "Goku enfrenta novos inimigos."
+  },
+
+  "evangelion": {
+    "title": "Neon Genesis: Evangelion",
+    "genre": ["Ficção Científica"],
+    "year": 1995,
+    "episodes": 26,
+    "seasons": 1,
+    "classification": "PG-16",
+    "score": 8.5,
+    "streaming": ["Netflix"],
+    "synopsis": "Adolescentes pilotam robôs contra criaturas."
+  },
+
+  "hunter-x-hunter": {
+    "title": "Hunter x Hunter",
+    "genre": ["Aventura"],
+    "year": 2011,
+    "episodes": 148,
+    "seasons": 1,
+    "classification": "PG-13",
+    "score": 9.0,
+    "streaming": ["Netflix"],
+    "synopsis": "Garoto busca se tornar Hunter."
+  },
+
+  "jujutsu-kaisen": {
+    "title": "Jujutsu Kaisen",
+    "genre": ["Ação"],
+    "year": 2020,
+    "episodes": 47,
+    "seasons": 2,
+    "classification": "PG-16",
+    "score": 8.6,
+    "streaming": ["Crunchyroll"],
+    "synopsis": "Estudantes lutam contra maldições."
+  },
+
+  "one-piece": {
+    "title": "One Piece",
+    "genre": ["Aventura"],
+    "year": 1999,
+    "episodes": 1000,
+    "seasons": 20,
+    "classification": "PG",
+    "score": 9.0,
+    "streaming": ["Crunchyroll", "Netflix"],
+    "synopsis": "Piratas buscam o One Piece."
+  },
+
+  "one-punch-man": {
+    "title": "One Punch Man",
+    "genre": ["Ação", "Comédia"],
+    "year": 2015,
+    "episodes": 24,
+    "seasons": 2,
+    "classification": "PG-13",
+    "score": 8.7,
+    "streaming": ["Netflix"],
+    "synopsis": "Herói derrota inimigos com um soco."
+  },
+
+  "solo-leveling": {
+    "title": "Solo Leveling",
+    "genre": ["Ação", "Fantasia"],
+    "year": 2024,
+    "episodes": 12,
+    "seasons": 1,
+    "classification": "PG-16",
+    "score": 8.6,
+    "streaming": ["Crunchyroll"],
+    "synopsis": "Caçador evolui de fraco para extremamente poderoso."
+  },
+
+  "berserk": {
+    "title": "Berserk",
+    "genre": ["Ação", "Fantasia Sombria"],
+    "year": 1997,
+    "episodes": 25,
+    "seasons": 1,
+    "classification": "R",
+    "score": 8.7,
+    "streaming": ["Crunchyroll"],
+    "synopsis": "A jornada brutal de Guts em um mundo dominado por guerra e demônios."
+  },
+
+  "better-call-saul": {
+    "title": "Better Call Saul",
+    "genre": ["Drama", "Crime"],
+    "year": 2015,
+    "episodes": 63,
+    "seasons": 6,
+    "classification": "TV-MA",
+    "score": 9.0,
+    "streaming": ["Netflix"],
+    "synopsis": "A transformação de Jimmy McGill no advogado Saul Goodman."
+  },
+
+  "black-panther": {
+    "title": "Pantera Negra",
+    "genre": ["Ação", "Aventura"],
+    "year": 2018,
+    "duration": "2h 14m",
+    "classification": "PG-13",
+    "score": 7.3,
+    "streaming": ["Disney+"],
+    "director": "Ryan Coogler",
+    "cast": ["Chadwick Boseman"],
+    "synopsis": "O rei de Wakanda enfrenta ameaças internas e externas."
+  },
+
+  "bleach": {
+    "title": "Bleach",
+    "genre": ["Ação", "Sobrenatural"],
+    "year": 2004,
+    "episodes": 366,
+    "seasons": 16,
+    "classification": "PG-13",
+    "score": 8.2,
+    "streaming": ["Crunchyroll"],
+    "synopsis": "Um jovem ganha poderes de ceifador de almas."
+  },
+
+  "chainsaw-man-reze": {
+    "title": "Chainsaw Man: Arco Reze",
+    "genre": ["Ação", "Fantasia"],
+    "year": 2025,
+    "episodes": 1,
+    "seasons": 1,
+    "classification": "PG-16",
+    "score": 0.0,
+    "streaming": ["Crunchyroll"],
+    "synopsis": "Adaptação do arco da personagem Reze."
+  },
+
+  "dandadan": {
+    "title": "Dandadan",
+    "genre": ["Ação", "Comédia", "Sobrenatural"],
+    "year": 2024,
+    "episodes": 12,
+    "seasons": 1,
+    "classification": "PG-16",
+    "score": 8.5,
+    "streaming": ["Netflix"],
+    "synopsis": "Dois jovens enfrentam aliens e espíritos."
+  },
+
+  "fantastic-four": {
+    "title": "Quarteto Fantástico",
+    "genre": ["Ação", "Ficção Científica"],
+    "year": 2015,
+    "duration": "1h 40m",
+    "classification": "PG-13",
+    "score": 4.3,
+    "streaming": ["Disney+"],
+    "director": "Josh Trank",
+    "cast": ["Miles Teller"],
+    "synopsis": "Jovens ganham poderes após experimento."
+  },
+
+  "hellsing": {
+    "title": "Hellsing Ultimate",
+    "genre": ["Ação", "Terror"],
+    "year": 2006,
+    "episodes": 10,
+    "seasons": 1,
+    "classification": "R",
+    "score": 8.3,
+    "streaming": ["Crunchyroll"],
+    "synopsis": "Organização combate vampiros."
+  },
+
+  "jojo": {
+    "title": "JoJo's Bizarre Adventure",
+    "genre": ["Ação", "Aventura"],
+    "year": 2012,
+    "episodes": 190,
+    "seasons": 5,
+    "classification": "PG-16",
+    "score": 8.5,
+    "streaming": ["Netflix"],
+    "synopsis": "Saga da família Joestar contra forças sobrenaturais."
+  },
+
+  "jujutsu-kaisen-0": {
+    "title": "Jujutsu Kaisen 0",
+    "genre": ["Ação", "Sobrenatural"],
+    "year": 2021,
+    "duration": "1h 45m",
+    "classification": "PG-13",
+    "score": 7.8,
+    "streaming": ["Crunchyroll"],
+    "director": "Sunghoo Park",
+    "cast": ["Megumi Ogata"],
+    "synopsis": "Prequel focado em Yuta Okkotsu."
+  },
+
+  "let-there-be-carnage": {
+    "title": "Venom: Tempo de Carnificina",
+    "genre": ["Ação"],
+    "year": 2021,
+    "duration": "1h 37m",
+    "classification": "PG-13",
+    "score": 5.9,
+    "streaming": ["Netflix"],
+    "director": "Andy Serkis",
+    "cast": ["Tom Hardy"],
+    "synopsis": "Venom enfrenta Carnificina."
+  },
+
+  "monster": {
+    "title": "Monster",
+    "genre": ["Drama", "Suspense"],
+    "year": 2004,
+    "episodes": 74,
+    "seasons": 1,
+    "classification": "PG-16",
+    "score": 8.7,
+    "streaming": ["Netflix"],
+    "synopsis": "Um médico persegue um assassino que salvou no passado."
+  },
+
+  "peacemaker": {
+    "title": "Peacemaker",
+    "genre": ["Ação", "Comédia"],
+    "year": 2022,
+    "episodes": 8,
+    "seasons": 1,
+    "classification": "TV-MA",
+    "score": 8.3,
+    "streaming": ["HBO Max"],
+    "synopsis": "Um anti-herói patriota leva a paz a qualquer custo."
+  },
+
+  "shin-godzilla": {
+    "title": "Shin Godzilla",
+    "genre": ["Ficção Científica"],
+    "year": 2016,
+    "duration": "2h 0m",
+    "classification": "PG-13",
+    "score": 6.8,
+    "streaming": ["Prime Video"],
+    "director": "Hideaki Anno",
+    "cast": ["Hiroki Hasegawa"],
+    "synopsis": "Nova interpretação de Godzilla no Japão moderno."
+  },
+
+  "star-wars": {
+    "title": "Star Wars: Uma Nova Esperança",
+    "genre": ["Ficção Científica", "Aventura"],
+    "year": 1977,
+    "duration": "2h 1m",
+    "classification": "PG",
+    "score": 8.6,
+    "streaming": ["Disney+"],
+    "director": "George Lucas",
+    "cast": ["Mark Hamill"],
+    "synopsis": "A Rebelião enfrenta o Império Galáctico."
+  },
+
+  "the-flash": {
+    "title": "The Flash",
+    "genre": ["Ação", "Ficção Científica"],
+    "year": 2023,
+    "duration": "2h 24m",
+    "classification": "PG-13",
+    "score": 6.7,
+    "streaming": ["HBO Max"],
+    "director": "Andy Muschietti",
+    "cast": ["Ezra Miller"],
+    "synopsis": "Flash altera o tempo e cria realidades alternativas."
+  },
+
+  "yu-gi-oh": {
+    "title": "Yu-Gi-Oh!",
+    "genre": ["Aventura"],
+    "year": 2000,
+    "episodes": 224,
+    "seasons": 5,
+    "classification": "PG",
+    "score": 7.3,
+    "streaming": ["Netflix"],
+    "synopsis": "Jogos de cartas com consequências sobrenaturais."
+  }
+}

@@ -1,0 +1,32 @@
+* {
+  color: var(--white);
+}
+
+.overlay {
+  background-color: rgba(0, 0, 0, 0.45);
+}
+
+.movie-info {
+  background-color: var(--grey);
+  border-radius: 4px;
+}
+
+.critic-box {
+  border-radius: 2px;
+}
+
+.imdb {
+  color: var(--imdb);
+  background-color: currentColor;
+}
+
+.star,
+.star * {
+  color: var(--yellow-star);
+  stroke: currentColor;
+  fill: currentColor;
+}
+
+.star.half {
+    clip-path: inset(0 50% 0 0);
+}

@@ -1,10 +1,15 @@
-import { StrictMode } from 'react'
-import { createRoot } from 'react-dom/client'
-import './index.css'
-import App from './App.jsx'
+import { StrictMode } from "react";
+import { createRoot } from "react-dom/client";
+import "./index.css";
 
-createRoot(document.getElementById('root')).render(
+import MoviesRow from "./components/MoviesRow.jsx";
+import SpotlightMovie from "./components/SpotlightMovie.jsx";
+
+createRoot(document.getElementById("root")).render(
   <StrictMode>
-    <App />
+    <SpotlightMovie name="age-of-ultron"/>
+    <div>
+      <MoviesRow filter="Drama" />
+    </div>
   </StrictMode>,
-)
+);
