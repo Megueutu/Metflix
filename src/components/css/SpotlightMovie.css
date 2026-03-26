@@ -1,0 +1,8 @@
+.genres-dot>:nth-child(n)::after {
+    content: "•";
+    margin: 0 0.25rem;
+}
+
+.genres-dot>:last-child::after {
+    content: "";
+}

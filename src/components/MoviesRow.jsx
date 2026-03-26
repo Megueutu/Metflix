@@ -1,4 +1,3 @@
-import "./css/MoviesRow.css";
 import "./../index.css";
 
 import Movie from "./Movie.jsx";
@@ -33,7 +32,7 @@ function MoviesRow({ title, filter, random }) {
   return (
     <div>
       <h1 className="text-2xl ml-(--gap-movie) mb-2">{rowTitle}</h1>
-      <div className="flex gap-(--gap-movie) h-40 w-full overflow-auto">
+      <div className="flex gap-(--gap-movie) h-40 w-full overflow-auto scroll-hidden">
         <InvisibleComp />
         {movies.map((movie, i) => (
           <Movie key={i} name={movie} />

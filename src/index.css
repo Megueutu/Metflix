@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 @import "tailwindcss";
 
 :root {
@@ -6,17 +6,25 @@
   --grey: #424242;
   --white: #ffffff;
 
-  --imdb: #F6C700;
+  --main: #4dcf8c;
+  --opposite: var(--white);
+
+  --imdb: #f6c700;
   --yellow-star: #ffe079;
 
   --gap-movie: 1.65rem;
 }
 
 * {
-  font-family: "Rubik", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-optical-sizing: auto;
   font-style: normal;
 }
+
+h1, h2, h3, h4, h5, h6, p {
+  color: var(--white);
+}
+
 
 body {
   color: var(--black);
@@ -30,25 +38,25 @@ button {
   -webkit-user-drag: none;
 }
 
-.btn-trailer {
+.button {
   display: flex;
   cursor: pointer;
 
   white-space: nowrap;
   align-items: center;
   justify-content: space-between;
-  
-  background-color: var(--white);
-  color: var(--black);
-  
+
+  background-color: var(--main);
+  color: var(--opposite);
+
   padding: 0.1rem 0.6rem;
   border-radius: 2px;
 }
 
-.btn-trailer svg {
+.button svg {
   width: 16px;
   height: auto;
-  stroke: var(--black);
+  stroke: var(--opposite);
 }
 
 .scroll-hidden::-webkit-scrollbar {
