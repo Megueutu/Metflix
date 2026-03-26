@@ -6,3 +6,15 @@
 .genres-dot>:last-child::after {
     content: "";
 }
+
+.bg-movie::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+    height: 80%;
+    
+    background-image: url('movies/poster/age-of-ultron.jpg');
+    background-size: cover;
+    background-position: center;
+}

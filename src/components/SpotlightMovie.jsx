@@ -8,7 +8,7 @@ function SpotlightMovie({ name }) {
   const movie = getMovie(name);
 
   return (
-    <div className="ml-(--gap-movie)">
+    <div className="ml-(--gap-movie) mb-6 pt-60 bg-movie">
       <img className="w-40" src={getPath(name, "logo")} />
       <h1 className="text-4xl">{movie.title}</h1>
       <div className="flex gap-5 nth-[n]:opacity-60">
