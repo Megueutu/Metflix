@@ -1,5 +1,5 @@
 import "./css/SpotlightMovie.css";
-import "./../index.css";
+import "../index.css";
 import { getMovie, getPath } from "../utils.js";
 
 import { HiPlay } from "react-icons/hi";

@@ -1,4 +1,4 @@
-import "./../index.css";
+import "../index.css";
 
 import Movie from "./Movie.jsx";
 import MovieError from "../utils.js";
